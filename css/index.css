@@ -1532,7 +1532,7 @@ img {
 }
 
 .promo_popup {
-    background: url(.../img/main-card.png) center/cover no-repeat,rgba(32,32,32,.7);
+    background: url(../img/main-card.png) center/cover no-repeat,rgba(32,32,32,.7);
     background-blend-mode: overlay;
     padding: 30px;
     max-width: 650px;
