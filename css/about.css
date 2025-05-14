@@ -1242,7 +1242,7 @@ img {
 }
 
 .promo {
-    background: url(../img/promo.png) center/cover no-repeat;
+    background: url(.../img/promo.png) center/cover no-repeat;
     color: #fff;
     position: relative
 }

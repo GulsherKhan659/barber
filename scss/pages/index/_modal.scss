@@ -14,7 +14,7 @@
 
 .promo {
     &_popup {
-        background: url("../img/placeholder.jpg") no-repeat center / cover, rgba($black, .7);
+        background: url(".../img/placeholder.jpg") no-repeat center / cover, rgba($black, .7);
         background-blend-mode: overlay;
         padding: 30px;
         max-width: 650px;
